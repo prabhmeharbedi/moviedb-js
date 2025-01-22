@@ -28,7 +28,7 @@ form.addEventListener("submit", (e) => {
                     resultsDiv.innerHTML += movieCard;
                 });
             } else {
-                resultsDiv.innerHTML = "<p>No results found. Try a different search.</p>";
+                resultsDiv.innerHTML = "<p>No results found.</p>";
             }
         });
 });
