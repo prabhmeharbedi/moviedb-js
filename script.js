@@ -1,5 +1,5 @@
 const API_KEY = "25c991d6";
-
+ 
 const form = document.getElementById("searchForm");
 const resultsDiv = document.getElementById("results");
 
